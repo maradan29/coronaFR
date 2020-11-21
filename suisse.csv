@@ -1,27 +1,27 @@
-,Name,Code
-0,Aargau,577
-1,Appenzell Innerrhoden,564
-2,Appenzell Ausserrhoden,663
-3,Bern,605
-4,Basel-Landschaft,576
-5,Basel-Stadt,722
-6,Freiburg,1514
-7,Genève,1594
-8,Glarus,492
-9,Graubünden,577
-10,Jura,932
-11,Luzern,608
-12,Neuchâtel,1297
-13,Nidwalden,459
-14,Obwalden,746
-15,St. Gallen,851
-16,Schaffhausen,663
-17,Solothurn,580
-18,Schwyz,439
-19,Thurgau,556
-20,Ticino,1061
-21,Uri,683
-22,Vaud,1451
-23,Valais,1172
-24,Zug,571
-25,Zürich,638
+Name,Code
+Aargau,577
+Appenzell Innerrhoden,564
+Appenzell Ausserrhoden,663
+Bern,605
+Basel-Landschaft,576
+Basel-Stadt,722
+Freiburg,1514
+Genève,1594
+Glarus,492
+Graubünden,577
+Jura,932
+Luzern,608
+Neuchâtel,1297
+Nidwalden,459
+Obwalden,746
+St. Gallen,851
+Schaffhausen,663
+Solothurn,580
+Schwyz,439
+Thurgau,556
+Ticino,1061
+Uri,683
+Vaud,1451
+Valais,1172
+Zug,571
+Zürich,638
