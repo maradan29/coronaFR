@@ -1,16 +1,16 @@
 Canton,Taux de reproduction
-AG,0.85
+AG,0.86
 AI,0.63
 AR,0.75
-BE,0.89
-BL,1.01
+BE,0.9
+BL,1.0
 BS,0.87
 FR,0.84
 GE,0.97
-GL,0.81
+GL,0.8
 GR,0.77
 JU,0.76
-LU,0.81
+LU,0.8
 NE,1.2
 NW,0.9
 OW,0.98
@@ -20,9 +20,9 @@ SO,0.82
 SZ,0.9
 TG,0.88
 TI,1.04
-UR,1.0
+UR,0.99
 VD,0.93
 VS,0.84
 ZG,0.9
-ZH,0.88
+ZH,0.89
 CH,0.88
