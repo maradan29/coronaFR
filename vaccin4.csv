@@ -6,7 +6,6 @@ BEL,Belgique,5.36,https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Be
 BGR,Bulgarie,1.65,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg
 BIH,Bosnie-Herzégovine,,https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg
 BLR,Bélarus,0.28,https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg
-CHE,Suisse,7.42,https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg
 CYP,Chypre,5.97,https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg
 CZE,République tchèque,6.93,https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg
 DEU,Allemagne,6.11,https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg
@@ -23,7 +22,6 @@ IRL,Irlande,6.36,https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ire
 ISL,Islande,8.22,https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg
 ITA,Italie,6.6,https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg
 KOS,Kosovo,,https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg
-LIE,Liechtenstein,,https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg
 LTU,Lituanie,6.99,https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg
 LUX,Luxembourg,5.47,https://upload.wikimedia.org/wikipedia/commons/3/38/Civil_Ensign_of_Luxembourg.svg
 LVA,Lettonie,1.4,https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg
@@ -44,3 +42,5 @@ SVN,Slovénie,5.88,https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_S
 SWE,Suède,5.63,https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg
 TUR,Turquie,9.04,https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg
 UKR,Ukraine,,https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg
+LIE,Liechtenstein,7.56,https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg
+CHE,Suisse,7.97,https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg
