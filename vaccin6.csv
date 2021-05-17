@@ -1,73 +1,10 @@
 ,Catégorie,Pourcentage de personnes totalement vaccinées
-0,0 - 9,"        date geoRegion altersklasse_covid19  entries          type_variant  \
-1099  202118        FR                0 - 9      1.0  altersklasse_covid19   
-
-        pop  sumTotal  per100Persons  per100PersonsTotal  \
-1099  35588       2.0            0.0                0.01   
-
-                         type              version granularity  freq  prct  
-1099  COVID19FullyVaccPersons  2021-05-14_12-21-03    detailed   0.0   0.0  "
-1,10 - 19,"        date geoRegion altersklasse_covid19  entries          type_variant  \
-1119  202118        FR              10 - 19     15.0  altersklasse_covid19   
-
-        pop  sumTotal  per100Persons  per100PersonsTotal  \
-1119  35792     122.0           0.04                0.34   
-
-                         type              version granularity   freq  prct  
-1119  COVID19FullyVaccPersons  2021-05-14_12-21-03    detailed  0.003   0.3  "
-2,20 - 29,"        date geoRegion altersklasse_covid19  entries          type_variant  \
-1139  202118        FR              20 - 29     94.0  altersklasse_covid19   
-
-        pop  sumTotal  per100Persons  per100PersonsTotal  \
-1139  42682     797.0           0.22                1.87   
-
-                         type              version granularity  freq  prct  
-1139  COVID19FullyVaccPersons  2021-05-14_12-21-03    detailed  0.02   2.0  "
-3,30 - 39,"        date geoRegion altersklasse_covid19  entries          type_variant  \
-1159  202118        FR              30 - 39    177.0  altersklasse_covid19   
-
-        pop  sumTotal  per100Persons  per100PersonsTotal  \
-1159  44690    1195.0            0.4                2.67   
-
-                         type              version granularity   freq  prct  
-1159  COVID19FullyVaccPersons  2021-05-14_12-21-03    detailed  0.038   3.8  "
-4,40 - 49,"        date geoRegion altersklasse_covid19  entries          type_variant  \
-1179  202118        FR              40 - 49    295.0  altersklasse_covid19   
-
-        pop  sumTotal  per100Persons  per100PersonsTotal  \
-1179  45232    2111.0           0.65                4.67   
-
-                         type              version granularity   freq  prct  
-1179  COVID19FullyVaccPersons  2021-05-14_12-21-03    detailed  0.063   6.3  "
-5,50 - 59,"        date geoRegion altersklasse_covid19  entries          type_variant  \
-1199  202118        FR              50 - 59    668.0  altersklasse_covid19   
-
-        pop  sumTotal  per100Persons  per100PersonsTotal  \
-1199  48107    4010.0           1.39                8.34   
-
-                         type              version granularity   freq  prct  
-1199  COVID19FullyVaccPersons  2021-05-14_12-21-03    detailed  0.142  14.2  "
-6,60 - 69,"        date geoRegion altersklasse_covid19  entries          type_variant  \
-1219  202118        FR              60 - 69   1414.0  altersklasse_covid19   
-
-        pop  sumTotal  per100Persons  per100PersonsTotal  \
-1219  33114    6491.0           4.27                19.6   
-
-                         type              version granularity   freq  prct  
-1219  COVID19FullyVaccPersons  2021-05-14_12-21-03    detailed  0.301  30.1  "
-7,70 - 79,"        date geoRegion altersklasse_covid19  entries          type_variant  \
-1239  202118        FR              70 - 79   1548.0  altersklasse_covid19   
-
-        pop  sumTotal  per100Persons  per100PersonsTotal  \
-1239  23665   12404.0           6.54               52.41   
-
-                         type              version granularity  freq  prct  
-1239  COVID19FullyVaccPersons  2021-05-14_12-21-03    detailed  0.33  33.0  "
-8,80+,"        date geoRegion altersklasse_covid19  entries          type_variant  \
-1259  202118        FR                  80+    483.0  altersklasse_covid19   
-
-        pop  sumTotal  per100Persons  per100PersonsTotal  \
-1259  12913    9249.0           3.74               71.63   
-
-                         type              version granularity   freq  prct  
-1259  COVID19FullyVaccPersons  2021-05-14_12-21-03    detailed  0.103  10.3  "
+0,0 - 9,0.01
+1,10 - 19,0.34
+2,20 - 29,1.87
+3,30 - 39,2.67
+4,40 - 49,4.67
+5,50 - 59,8.34
+6,60 - 69,19.6
+7,70 - 79,52.41
+8,80+,71.63
