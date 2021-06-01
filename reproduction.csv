@@ -1,19 +1,19 @@
 Canton,Taux de reproduction
 AG,0.74
 AI,1.23
-AR,0.87
+AR,0.89
 BE,0.84
 BL,0.79
 BS,0.74
 FR,0.87
-GE,0.75
+GE,0.76
 GL,0.93
-GR,0.91
+GR,0.92
 JU,0.85
-LU,0.9
+LU,0.89
 NE,0.7
 NW,1.01
-OW,1.03
+OW,1.06
 SG,0.97
 SH,1.22
 SO,0.76
@@ -26,9 +26,9 @@ VS,0.99
 ZG,0.78
 ZH,0.83
 CH,0.84
-seR Sentinella 1,0.87
-seR Sentinella 2,0.83
+seR Sentinella 1,0.88
+seR Sentinella 2,0.84
 seR Sentinella 3,0.71
 seR Sentinella 4,0.91
 seR Sentinella 5,0.89
-seR Sentinella 6,0.89
+seR Sentinella 6,0.9
