@@ -1,27 +1,27 @@
 ,Kanton,Canton,Drapeau,Nombre total,Totalement vaccinée,Partiellement vaccinée,Au moins partiellement vaccinée
-0,Aargau,Argovie,https://upload.wikimedia.org/wikipedia/commons/b/b5/Wappen_Aargau_matt.svg,346190,50.48,3.41,53.89
-1,Appenzell Innerrhoden,Appenzell Rhodes-Int.,https://upload.wikimedia.org/wikipedia/commons/b/b7/Wappen_Appenzell_Innerrhoden_matt.svg,6497,40.28,3.46,43.74
-2,Appenzell Ausserrhoden,Appenzell Rhodes-Ext.,https://upload.wikimedia.org/wikipedia/commons/2/2c/Wappen_Appenzell_Ausserrhoden_matt.svg,24435,44.07,4.54,48.61
-3,Bern,Berne,https://upload.wikimedia.org/wikipedia/commons/4/47/Wappen_Bern_matt.svg,544470,52.38,4.98,57.36
-4,Basel-Landschaft,Bâle-Campagne,https://upload.wikimedia.org/wikipedia/commons/8/8e/Coat_of_arms_of_Kanton_Basel-Landschaft.svg,157755,54.5,4.52,59.02
-5,Basel-Stadt,Bâle-Ville,https://upload.wikimedia.org/wikipedia/commons/7/7d/Wappen_Basel-Stadt_matt.svg,106240,54.25,5.18,59.42
-6,Freiburg,Fribourg,https://upload.wikimedia.org/wikipedia/commons/0/01/Wappen_Freiburg_matt.svg,152293,47.33,7.95,55.28
-7,Genève,Genève,https://upload.wikimedia.org/wikipedia/commons/9/9d/Wappen_Genf_matt.svg,251269,49.84,6.74,56.58
-8,Glarus,Glaris,https://upload.wikimedia.org/wikipedia/commons/0/0e/Wappen_Glarus_matt.svg,17732,43.69,5.19,48.87
-9,Graubünden,Grisons,https://upload.wikimedia.org/wikipedia/commons/1/19/Wappen_Graub%C3%BCnden_matt.svg,97722,49.1,5.68,54.78
-10,Jura,Jura,https://upload.wikimedia.org/wikipedia/commons/f/f0/Wappen_Jura_matt.svg,34510,46.9,5.81,52.71
-11,Luzern,Lucerne,https://upload.wikimedia.org/wikipedia/commons/6/66/Wappen_Luzern_matt.svg,197545,47.82,4.73,52.54
-12,Neuchâtel,Neuchâtel,https://upload.wikimedia.org/wikipedia/commons/d/d1/Wappen_Neuenburg_matt.svg,87659,49.67,8.67,58.34
-13,Nidwalden,Nidwald,https://upload.wikimedia.org/wikipedia/commons/b/bd/Wappen_Nidwalden_matt.svg,19579,45.44,4.63,50.07
-14,Obwalden,Obwald,https://upload.wikimedia.org/wikipedia/commons/1/1a/Wappen_Obwalden_matt.svg,15535,40.96,4.31,45.26
-15,St. Gallen,St-Gall,https://upload.wikimedia.org/wikipedia/commons/2/20/Wappen_St._Gallen_matt.svg,225276,44.11,5.79,49.9
-16,Schaffhausen,Schaffhouse,https://upload.wikimedia.org/wikipedia/commons/b/b6/Wappen_Schaffhausen_matt.svg,43388,52.69,4.77,57.46
-17,Solothurn,Soleure,https://upload.wikimedia.org/wikipedia/commons/b/b7/Wappen_Solothurn_matt.svg,142462,51.76,3.5,55.25
-18,Schwyz,Schwytz,https://upload.wikimedia.org/wikipedia/commons/5/55/Wappen_des_Kantons_Schwyz.svg,72227,45.01,3.68,48.69
-19,Thurgau,Thurgovie,https://upload.wikimedia.org/wikipedia/commons/7/71/Wappen_Thurgau_matt.svg,127557,45.63,4.23,49.86
-20,Ticino,Tessin,https://upload.wikimedia.org/wikipedia/commons/8/87/Wappen_Tessin_matt.svg,190792,54.28,4.38,58.66
-21,Uri,Uri,https://upload.wikimedia.org/wikipedia/commons/1/10/Wappen_Uri_matt.svg,16648,45.36,4.55,49.91
-22,Vaud,Vaud,https://upload.wikimedia.org/wikipedia/commons/1/1d/Wappen_Waadt_matt.svg,391451,48.62,9.78,58.4
-23,Valais,Valais,https://upload.wikimedia.org/wikipedia/commons/a/a3/Wappen_Wallis_matt.svg,161769,46.82,8.4,55.22
-24,Zug,Zoug,https://upload.wikimedia.org/wikipedia/commons/3/31/Wappen_Zug_matt.svg,67131,52.59,5.15,57.75
-25,Zürich,Zurich,https://upload.wikimedia.org/wikipedia/commons/5/5a/Wappen_Z%C3%BCrich_matt.svg,839011,54.51,4.78,59.28
+0,Aargau,Argovie,https://upload.wikimedia.org/wikipedia/commons/b/b5/Wappen_Aargau_matt.svg,347014,50.6,3.45,54.05
+1,Appenzell Innerrhoden,Appenzell Rhodes-Int.,https://upload.wikimedia.org/wikipedia/commons/b/b7/Wappen_Appenzell_Innerrhoden_matt.svg,6497,40.28,3.59,43.87
+2,Appenzell Ausserrhoden,Appenzell Rhodes-Ext.,https://upload.wikimedia.org/wikipedia/commons/2/2c/Wappen_Appenzell_Ausserrhoden_matt.svg,24465,44.12,4.55,48.67
+3,Bern,Berne,https://upload.wikimedia.org/wikipedia/commons/4/47/Wappen_Bern_matt.svg,546284,52.55,5.0,57.56
+4,Basel-Landschaft,Bâle-Campagne,https://upload.wikimedia.org/wikipedia/commons/8/8e/Coat_of_arms_of_Kanton_Basel-Landschaft.svg,157819,54.52,4.61,59.13
+5,Basel-Stadt,Bâle-Ville,https://upload.wikimedia.org/wikipedia/commons/7/7d/Wappen_Basel-Stadt_matt.svg,106251,54.25,5.18,59.43
+6,Freiburg,Fribourg,https://upload.wikimedia.org/wikipedia/commons/0/01/Wappen_Freiburg_matt.svg,152702,47.45,8.04,55.5
+7,Genève,Genève,https://upload.wikimedia.org/wikipedia/commons/9/9d/Wappen_Genf_matt.svg,252186,50.02,6.69,56.71
+8,Glarus,Glaris,https://upload.wikimedia.org/wikipedia/commons/0/0e/Wappen_Glarus_matt.svg,17831,43.93,5.14,49.07
+9,Graubünden,Grisons,https://upload.wikimedia.org/wikipedia/commons/1/19/Wappen_Graub%C3%BCnden_matt.svg,97964,49.22,5.8,55.02
+10,Jura,Jura,https://upload.wikimedia.org/wikipedia/commons/f/f0/Wappen_Jura_matt.svg,34572,46.98,5.86,52.85
+11,Luzern,Lucerne,https://upload.wikimedia.org/wikipedia/commons/6/66/Wappen_Luzern_matt.svg,198093,47.95,5.01,52.96
+12,Neuchâtel,Neuchâtel,https://upload.wikimedia.org/wikipedia/commons/d/d1/Wappen_Neuenburg_matt.svg,87929,49.82,8.74,58.56
+13,Nidwalden,Nidwald,https://upload.wikimedia.org/wikipedia/commons/b/bd/Wappen_Nidwalden_matt.svg,19602,45.49,4.65,50.14
+14,Obwalden,Obwald,https://upload.wikimedia.org/wikipedia/commons/1/1a/Wappen_Obwalden_matt.svg,16103,42.45,4.35,46.8
+15,St. Gallen,St-Gall,https://upload.wikimedia.org/wikipedia/commons/2/20/Wappen_St._Gallen_matt.svg,225881,44.23,5.79,50.02
+16,Schaffhausen,Schaffhouse,https://upload.wikimedia.org/wikipedia/commons/b/b6/Wappen_Schaffhausen_matt.svg,43403,52.71,4.77,57.48
+17,Solothurn,Soleure,https://upload.wikimedia.org/wikipedia/commons/b/b7/Wappen_Solothurn_matt.svg,142846,51.9,3.58,55.48
+18,Schwyz,Schwytz,https://upload.wikimedia.org/wikipedia/commons/5/55/Wappen_des_Kantons_Schwyz.svg,72388,45.11,3.71,48.82
+19,Thurgau,Thurgovie,https://upload.wikimedia.org/wikipedia/commons/7/71/Wappen_Thurgau_matt.svg,127964,45.78,4.21,49.98
+20,Ticino,Tessin,https://upload.wikimedia.org/wikipedia/commons/8/87/Wappen_Tessin_matt.svg,191070,54.36,4.45,58.81
+21,Uri,Uri,https://upload.wikimedia.org/wikipedia/commons/1/10/Wappen_Uri_matt.svg,16661,45.39,4.52,49.91
+22,Vaud,Vaud,https://upload.wikimedia.org/wikipedia/commons/1/1d/Wappen_Waadt_matt.svg,392932,48.81,9.72,58.53
+23,Valais,Valais,https://upload.wikimedia.org/wikipedia/commons/a/a3/Wappen_Wallis_matt.svg,162916,47.15,8.31,55.46
+24,Zug,Zoug,https://upload.wikimedia.org/wikipedia/commons/3/31/Wappen_Zug_matt.svg,67299,52.72,5.18,57.91
+25,Zürich,Zurich,https://upload.wikimedia.org/wikipedia/commons/5/5a/Wappen_Z%C3%BCrich_matt.svg,841199,54.65,4.77,59.42
