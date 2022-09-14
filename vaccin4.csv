@@ -1,5 +1,5 @@
 Code,Pays,Nombre de personnes entièrement vaccinées pour 100 habitants,Drapeau
-ALB,Albanie,44.1,https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg
+ALB,Albanie,44.18,https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg
 AND,Andorre,67.66,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg
 AUT,Autriche,76.45,https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg
 BEL,Belgique,78.87,https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg
@@ -11,13 +11,13 @@ CZE,République tchèque,65.54,https://upload.wikimedia.org/wikipedia/commons/c/
 DEU,Allemagne,76.07,https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg
 DNK,Danemark,81.68,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg
 ESP,Espagne,85.58,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg
-EST,Estonie,63.64,https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg
+EST,Estonie,63.66,https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg
 FIN,Finlande,78.43,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg
 FRA,France,78.67,https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg
 GBR,Royaume-Uni,75.4,https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg
 GRC,Grèce,73.11,https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg
 HRV,Croatie,55.37,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg
-HUN,Hongrie,63.88,https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg
+HUN,Hongrie,63.89,https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg
 IRL,Irlande,81.23,https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg
 ISL,Islande,78.36,https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg
 ITA,Italie,80.97,https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg
@@ -28,7 +28,7 @@ LVA,Lettonie,69.69,https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_L
 MCO,Monaco,69.96,https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg
 MDA,Moldavie,34.74,https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg
 MKD,Macédoine,39.83,https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg
-MLT,Malte,89.35,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg
+MLT,Malte,89.36,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg
 MNE,Monténégro,45.37,https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg
 NLD,Pays-Bas,68.32,https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg
 NOR,Norvège,75.0,https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg
